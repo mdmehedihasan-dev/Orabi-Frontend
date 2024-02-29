@@ -1,8 +1,3 @@
-# React + Vite
+https://orabifrontend.netlify.app/  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![orabi](https://github.com/mehedijs/Orabi-Frontend/assets/116740305/3822e4c9-2aa3-450f-8969-62ceafc2bc06)
